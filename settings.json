@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "DEROX_1_ORIGINAL.aternos.me",
-    "port": 61599,
-    "version": "",
+    "port": "61599",
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
